@@ -1,0 +1,7 @@
+{
+  "hidden1": "IntDistribution{'log': False, 'step': 1, 'low': 32, 'high': 128}",
+  "hidden2": "IntDistribution{'log': False, 'step': 1, 'low': 16, 'high': 64}",
+  "dropout": "FloatDistribution{'step': None, 'low': 0.0, 'high': 0.5, 'log': False}",
+  "lr": "FloatDistribution{'step': None, 'low': 0.0001, 'high': 0.01, 'log': True}",
+  "batch_size": "CategoricalDistribution{'choices': (16, 32, 64)}"
+}

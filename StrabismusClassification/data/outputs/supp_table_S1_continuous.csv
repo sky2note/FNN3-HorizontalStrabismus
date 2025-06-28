@@ -1,0 +1,9 @@
+Variable,mean,std,mean ± SD
+Age,-0.0,1.0,-0.0 ± 1.0
+PrismCoverTest,-0.0,1.0,-0.0 ± 1.0
+AxL_mean,-0.0,1.0,-0.0 ± 1.0
+AxL_diff,0.0,1.0,0.0 ± 1.0
+SphEq_mean,-0.0,1.0,-0.0 ± 1.0
+SphEq_diff,-0.0,1.0,-0.0 ± 1.0
+CorrectedVisualAcuityOD,0.0,1.0,0.0 ± 1.0
+CorrectedVisualAcuityOS,-0.0,1.0,-0.0 ± 1.0

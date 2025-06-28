@@ -1,0 +1,5 @@
+metric,ci_lower,ci_upper
+auc_macro,0.948,0.963
+mcc_macro,0.712,0.761
+f1_macro,0.780,0.824
+subset_acc,0.389,0.469

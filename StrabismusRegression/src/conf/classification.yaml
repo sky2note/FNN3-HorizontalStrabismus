@@ -1,0 +1,29 @@
+# conf/classification.yaml
+DATA_PATH: "data/Data_M1D5_Preproc.csv"
+FOLDS_DIR:  "data/folds/M1D5"
+
+
+FEATURE_COLS:
+  - Age
+  - PrimaryDeviatingEye
+  - PrismCoverTest
+  - AxialLengthOD
+  - AxialLengthOS
+  - EqualVisionOpptyObserver
+  - SphericalEquivalentOD
+  - SphericalEquivalentOS
+
+
+CLASS_COLS:
+  - MRRsOD_Binary
+  - MRRsOS_Binary
+  - LRRsOD_Binary
+  - LRRsOS_Binary
+  - MRRcOD_Binary
+  - MRRcOS_Binary
+  - LRRcOD_Binary
+  - LRRcOS_Binary
+
+REG_COLS: []        # 仅做分类可留空
+
+
